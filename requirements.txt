@@ -1,8 +1,8 @@
 streamlit==1.35.0
-streamlit-webrtc
+streamlit-webrtc>=0.48.1
 ultralytics==8.1.25
 opencv-python
+numpy
 Pillow
 av
-numpy
 torch>=2.0.0
