@@ -6,3 +6,4 @@ Pillow
 av
 numpy
 torch>=2.0.0
+
